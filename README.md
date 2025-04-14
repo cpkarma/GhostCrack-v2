@@ -1,5 +1,7 @@
 # GhostCrack v2 - By Karma Syndicate
 
+**GhostCrack v2** is a multi-functional penetration testing and automation tool, designed for rapid exploitation and validation of web services.
+
 **Whats New?**
 
 - **Combo Mode:** Now cracks cPanel & WHM using a combo list.
@@ -7,8 +9,6 @@
 - **cPanel Domain Validation:** When checking cPanel, it also checks for valid main domains and saves the results.
 
 - **Alias Removed:** Removed alias "karma_" which means it will upload or create files without name "karma_" added.
-
-**GhostCrack v2** is a multi-functional penetration testing and automation tool, designed for rapid exploitation and validation of web services.
 
 **📝 List Format**
 
