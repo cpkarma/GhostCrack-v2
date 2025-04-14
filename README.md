@@ -10,7 +10,7 @@
 
 - **Alias Removed:** Removed alias "karma_" which means it will upload or create files without name "karma_" added.
 
-**📝 List Format**
+**📝 List Format 📝**
 
 **cPanel List Format:** https://domain.com:2083|user|password
 
