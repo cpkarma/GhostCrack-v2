@@ -2,7 +2,7 @@
 
 **GhostCrack v2** is a multi-functional penetration testing and automation tool, designed for rapid exploitation and validation of web services.
 
-**Whats New?**
+**🆕 Whats New?**
 
 - **Combo Mode:** Now cracks cPanel & WHM using a combo list.
 
